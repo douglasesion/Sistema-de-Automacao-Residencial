@@ -1,0 +1,6 @@
+stm32f4_discovery.c:118:6:STM_EVAL_LEDInit	1
+stm32f4_discovery.c:144:6:STM_EVAL_LEDOn	1
+stm32f4_discovery.c:159:6:STM_EVAL_LEDOff	1
+stm32f4_discovery.c:174:6:STM_EVAL_LEDToggle	1
+stm32f4_discovery.c:190:6:STM_EVAL_PBInit	2
+stm32f4_discovery.c:234:10:STM_EVAL_PBGetState	1
