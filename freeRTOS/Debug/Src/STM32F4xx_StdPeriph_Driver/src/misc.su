@@ -1,0 +1,5 @@
+../Src/STM32F4xx_StdPeriph_Driver/src/misc.c:112:6:NVIC_PriorityGroupConfig	16	static
+../Src/STM32F4xx_StdPeriph_Driver/src/misc.c:130:6:NVIC_Init	24	static
+../Src/STM32F4xx_StdPeriph_Driver/src/misc.c:174:6:NVIC_SetVectorTable	16	static
+../Src/STM32F4xx_StdPeriph_Driver/src/misc.c:193:6:NVIC_SystemLPConfig	16	static
+../Src/STM32F4xx_StdPeriph_Driver/src/misc.c:217:6:SysTick_CLKSourceConfig	16	static
