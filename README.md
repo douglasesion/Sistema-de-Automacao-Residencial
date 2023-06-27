@@ -1,4 +1,7 @@
-# Sistema-de-Automacao-Residencial
+# Sistema de Automacao Residencial
+
+![image](https://github.com/douglasesion/Sistema-de-Automacao-Residencial/assets/96123354/931d2576-65f1-4320-a6d6-baaeadbaa8cd)
+
 ## INTRODUÇÃO
 
 Este documento tem como objetivo descrever um projeto de automação residencial relacionado a uma rotina matinal otimizada. De forma a interligar sistemas em tempo real com uma ideia de assistência personalizada e automatizada para ajudar os usuários a iniciar o dia de forma eficiente e agradável. O sistema deve ser capaz de adaptar-se às preferências individuais e oferecer uma variedade de funcionalidades para facilitar a rotina matinal.
